@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/wiki-repository-github/static/js/main.f25d1506.js",
+    "static/media/github.png": "/wiki-repository-github/static/media/github.4d74fd76ac168df7723c.png",
+    "index.html": "/wiki-repository-github/index.html",
+    "main.f25d1506.js.map": "/wiki-repository-github/static/js/main.f25d1506.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f25d1506.js"
+  ]
+}
