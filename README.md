@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Wiki Repository Github
+A simple tool that allows you to find GitHub repositories by their username/repository using the [GitHub API](https://api.github.com/).
+
+🔗 [Click here to access](https://douglaspfeffer.github.io/wiki-repository-github)
+
+### Technologies 💻
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### For Desktop
+![Preview](./src/assets/preview-desktop.png)
+
+### For Mobile
+![Preview](./src/assets/preview-mobile.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
